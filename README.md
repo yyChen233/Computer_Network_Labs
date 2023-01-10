@@ -1,4 +1,4 @@
-## Computer Network 2022fall Course Labs
+## Computer Network 2022Fall Course Labs
 PKU Computer Network 计算机网络2022秋 Course Labs
 
 + Lab1：实现一个自己的myFTP协议
